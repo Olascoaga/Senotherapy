@@ -2,7 +2,8 @@
 """
 Created on Fri Apr 16 13:14:57 2021
 
-@author: olask
+@author: Samael Olascoaga
+@email: olaskuaga@gmail.com
 """
 
 import pandas as pd
@@ -41,4 +42,3 @@ plt.xlabel('-log10(FDR)')
 plt.title('KEGG Common targets')
 
 plt.savefig(r'KEGG_common' + '.svg', format='svg', dpi=600, bbox_inches = "tight" )
-
