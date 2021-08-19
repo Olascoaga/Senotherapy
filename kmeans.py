@@ -2,7 +2,8 @@
 """
 Created on Tue Apr 27 10:25:31 2021
 
-@author: olask
+@author: Samael Olascoaga  
+@email: olaskuaga@gmail.com
 """
 
 import pandas as pd
